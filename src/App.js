@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React with riya and rijvan
+          Learn React with riya and rijvan and become a successfull developer
         </a>
       </header>
     </div>
